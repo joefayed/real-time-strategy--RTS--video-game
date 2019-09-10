@@ -1,0 +1,9 @@
+D:\Cs\CS 232\Assignments\Big game\Big game\bin\Debug\Big game.exe.config
+D:\Cs\CS 232\Assignments\Big game\Big game\bin\Debug\Big game.exe
+D:\Cs\CS 232\Assignments\Big game\Big game\bin\Debug\Big game.pdb
+D:\Cs\CS 232\Assignments\Big game\Big game\obj\Debug\Big game.csprojResolveAssemblyReference.cache
+D:\Cs\CS 232\Assignments\Big game\Big game\obj\Debug\Big_game.Properties.Resources.resources
+D:\Cs\CS 232\Assignments\Big game\Big game\obj\Debug\Big game.csproj.GenerateResource.Cache
+D:\Cs\CS 232\Assignments\Big game\Big game\obj\Debug\Big game.exe
+D:\Cs\CS 232\Assignments\Big game\Big game\obj\Debug\Big game.pdb
+D:\Cs\CS 232\Assignments\Big game\Big game\obj\Debug\Big_game.vehickles.resources
